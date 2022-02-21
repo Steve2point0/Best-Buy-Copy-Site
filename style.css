@@ -6,6 +6,10 @@ ul.pt13 {
     font-size: 13px;
 }
 
+.botnav {
+    width: 20rem;
+}
+
 .hero {
     background-color: #e3e6e9;
     height: 54vh;
