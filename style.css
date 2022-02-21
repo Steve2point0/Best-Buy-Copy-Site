@@ -5,3 +5,34 @@ nav  {
 ul.pt13 {
     font-size: 13px;
 }
+
+.hero {
+    background-color: #e3e6e9;
+    height: 54vh;
+}
+img.rounded-circle {
+    height: 75px;
+    width: 75px;
+}
+
+.sale {
+    font-size: 3.2em;
+}
+
+.card {
+    background-color: #e3e6e9;
+}
+
+.left-card {
+  
+    height: 50vh;
+    width: 48vw;
+}
+
+.right-card {
+    height: 50vh;
+    width: 48vw;
+}
+
+
+
