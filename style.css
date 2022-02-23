@@ -2,12 +2,24 @@ nav  {
     background-color: #0046be;
 }
 
-ul.pt13 {
-    font-size: 13px;
+.carousel {
+    background-color: aqua;
 }
 
 .botnav {
     width: 20rem;
+}
+
+ul.pt13 {
+    font-size: 13px;
+}
+
+.widehero {
+    background-color: #e3e6e9;
+}
+
+.bgwhite {
+    background-color: #fff;
 }
 
 .hero {
@@ -38,5 +50,10 @@ img.rounded-circle {
     width: 48vw;
 }
 
-
-
+li img {
+    height: 150px;
+    width: 50px;
+}
+.deal {
+    background-color: maroon;
+}
