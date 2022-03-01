@@ -1,3 +1,9 @@
+.content {
+    width: 100%;
+    margin: 0px 1em;
+    overflow: hidden;
+}
+
 nav  {
     background-color: #0046be;
 }
@@ -7,7 +13,7 @@ nav  {
 }
 
 .botnav {
-    width: 20rem;
+    width: 16rem;
 }
 
 ul.pt13 {
@@ -19,28 +25,33 @@ ul.pt13 {
     height: 100vh;
 }
 
+@media only screen and (min-width: 1200px) {
+    .widehero {
+        height: 54vh;
+    }
+}
+
 .bgwhite {
     background-color: #fff;
 }
 
 .hero {
     background-color: #e3e6e9;
-    
 }
-
+    
 img.rounded-circle {
     height: 75px;
     width: 75px;
 }
 
 .sale {
-    font-size: 3.2em;
+    font-size: 7.2em;
 }
 
-.card-1 {
+.card-1{
     background-color: #3380cc;
-
 }
+    
 
 .carlogo {
     height: 60px;
@@ -48,16 +59,6 @@ img.rounded-circle {
 }
 
 
-.left-card {
-  
-    height: 50vh;
-    width: 48vw;
-}
-
-.right-card {
-    height: 50vh;
-    width: 48vw;
-}
 
 li img {
     height: 150px;
@@ -66,3 +67,40 @@ li img {
 .deal {
     background-color: maroon;
 }
+
+.bestbuy {
+    margin: 0px;
+}
+
+.totallogo1 {
+    height: 150px;
+}
+
+.totalbtn {
+    
+    padding: 0px;
+}
+
+.totallogo {
+    width: 120px;
+    height: 40px;
+    margin: auto;
+}
+
+.totaltech {
+    background-color: #0046be;
+}
+
+.totalborder {
+    border-right: 2px solid #fff;
+    margin: 20px;
+}
+
+.p-totaltech {
+    font-size: 13px;
+}
+
+.stortopa {
+    font-size: 14px;
+}
+
