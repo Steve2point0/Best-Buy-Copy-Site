@@ -20,16 +20,7 @@ ul.pt13 {
     font-size: 13px;
 }
 
-.widehero {
-    background-color: #e3e6e9;
-    height: 100vh;
-}
 
-@media only screen and (min-width: 1200px) {
-    .widehero {
-        height: 54vh;
-    }
-}
 
 .bgwhite {
     background-color: #fff;
