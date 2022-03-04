@@ -1,15 +1,5 @@
-.content {
-    width: 100%;
-    margin: 0px 1em;
-    overflow: hidden;
-}
-
 nav  {
     background-color: #0046be;
-}
-
-.carousel {
-    background-color: aqua;
 }
 
 .botnav {
@@ -20,10 +10,23 @@ ul.pt13 {
     font-size: 13px;
 }
 
-
-
 .bgwhite {
     background-color: #fff;
+}
+
+.herocarousel {
+    width: auto;
+    height: 150px;
+}
+
+.herofont {
+    font-size: 13px;
+
+}
+
+.herofont2 {
+    padding-top: 0px;
+    margin: 0px;
 }
 
 .hero {
@@ -42,14 +45,11 @@ img.rounded-circle {
 .card-1{
     background-color: #3380cc;
 }
-    
 
 .carlogo {
     height: 60px;
     width: 60px;
 }
-
-
 
 li img {
     height: 150px;
