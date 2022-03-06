@@ -104,3 +104,13 @@ li img {
     height: 200px;
 }
 
+.creditcardimg {
+    height: 100px;
+    width: 150px;
+    margin: 0 150px;
+}
+
+.creditcard {
+    background-color: #0046be;
+    margin: 0 50px;
+}
