@@ -21,7 +21,6 @@ ul.pt13 {
 
 .herofont {
     font-size: 13px;
-
 }
 
 .herofont2 {
@@ -32,6 +31,7 @@ ul.pt13 {
 .hero {
     background-color: #e3e6e9;
 }
+
     
 img.rounded-circle {
     height: 75px;
@@ -44,6 +44,7 @@ img.rounded-circle {
 
 .card-1{
     background-color: #3380cc;
+    height: 38rem;
 }
 
 .carlogo {
@@ -100,6 +101,7 @@ li img {
     width: 150px;
 }
 
+
 .chevy {
     height: 200px;
 }
@@ -131,3 +133,4 @@ li img {
 .footer2 a, p {
     font-size: 13px;
 }
+
