@@ -11,3 +11,4 @@ Also the Carousels in Bootstrap only allow width adjustments that don't collapse
   so each item is still full width of the Carousel. That's annoying.
   
  
+![Screenshot 2022-03-08 at 14-44-36 Best Buy Copy Site](https://user-images.githubusercontent.com/43219209/157324641-09054e41-6692-4f6c-92ba-3746c5649815.png)
