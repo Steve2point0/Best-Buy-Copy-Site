@@ -1,15 +1,5 @@
-.content {
-    width: 100%;
-    margin: 0px 1em;
-    overflow: hidden;
-}
-
 nav  {
     background-color: #0046be;
-}
-
-.carousel {
-    background-color: aqua;
 }
 
 .botnav {
@@ -20,24 +10,28 @@ ul.pt13 {
     font-size: 13px;
 }
 
-.widehero {
-    background-color: #e3e6e9;
-    height: 100vh;
-}
-
-@media only screen and (min-width: 1200px) {
-    .widehero {
-        height: 54vh;
-    }
-}
-
 .bgwhite {
     background-color: #fff;
+}
+
+.herocarousel {
+    width: auto;
+    height: 150px;
+}
+
+.herofont {
+    font-size: 13px;
+}
+
+.herofont2 {
+    padding-top: 0px;
+    margin: 0px;
 }
 
 .hero {
     background-color: #e3e6e9;
 }
+
     
 img.rounded-circle {
     height: 75px;
@@ -50,15 +44,13 @@ img.rounded-circle {
 
 .card-1{
     background-color: #3380cc;
+    height: 38rem;
 }
-    
 
 .carlogo {
     height: 60px;
     width: 60px;
 }
-
-
 
 li img {
     height: 150px;
@@ -83,7 +75,7 @@ li img {
 
 .totallogo {
     width: 120px;
-    height: 40px;
+    height: 60px;
     margin: auto;
 }
 
@@ -96,11 +88,49 @@ li img {
     margin: 20px;
 }
 
-.p-totaltech {
-    font-size: 13px;
+.ptotaltech {
+    font-size: 24px;
 }
 
 .stortopa {
-    font-size: 14px;
+    font-size: 10px;
+}
+
+.carouselimg {
+    height: 100px;
+    width: 150px;
+}
+
+
+.chevy {
+    height: 200px;
+}
+
+.creditcardimg {
+    height: 100px;
+    width: 150px;
+    margin: 0 150px;
+}
+
+.creditcard {
+    background-color: #0046be;
+    margin: 0 50px;
+}
+
+.footer1 {
+    background-color: #f0f2f4;
+}
+
+.footer1 a {
+    font-size: 16px;
+}
+
+.footericon {
+    margin-left: 4.5rem;
+    
+}
+
+.footer2 a, p {
+    font-size: 13px;
 }
 
