@@ -1,5 +1,7 @@
 # Best-Buy-Copy-Site
-This is a copy of the front page only. I used Bootstrap for the majority of the layout and functionality. The original site I believe uses React and Tailwind.
+This is a copy of the front page only. The original site uses an adaptive design which isn't very responsive to screen sizes.
+
+I used Bootstrap for the majority of the layout and functionality. The original site I believe uses React and Tailwind.
 
 Custom CSS was used to adjust img sizes, font-size and background-colors.
 
