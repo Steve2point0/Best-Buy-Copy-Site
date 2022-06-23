@@ -12,5 +12,6 @@ Carousels are used on the majority of the site with dynamically populated data. 
 Also the Carousels in Bootstrap only allow width adjustments that don't collapse the (x) margins or padding. So using the w-25 only shrinks the image
   so each item is still full width of the Carousel. That's annoying.
 
-![Screenshot 2022-06-22 at 19-48-42 GitHub - Steve2point0_Best-Buy-Copy-Site](https://user-images.githubusercontent.com/43219209/175184544-5673d21a-a02a-4025-a8fc-f2d0f4a32c21.png)
+![Screenshot 2022-06-22 at 20-02-14 Best Buy Copy Site](https://user-images.githubusercontent.com/43219209/175185658-8a998f65-a605-4a81-be81-e14113c04711.png)
+
 
